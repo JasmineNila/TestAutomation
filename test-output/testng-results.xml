@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4467" started-at="2021-09-05T12:01:03 IST" finished-at="2021-09-05T12:01:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4467" started-at="2021-09-05T12:01:03 IST" finished-at="2021-09-05T12:01:08 IST">
+      <class name="com.app.test.loginTestPage">
+        <test-method status="PASS" signature="verifyloginCredentials()[pri:0, instance:com.app.test.loginTestPage@9dbdbf]" name="verifyloginCredentials" duration-ms="4186" started-at="2021-09-05T12:01:03 IST" finished-at="2021-09-05T12:01:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginCredentials -->
+      </class> <!-- com.app.test.loginTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
